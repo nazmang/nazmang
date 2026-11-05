@@ -1,6 +1,8 @@
 ## Hi, I'm @nazmang 👋
 
-DevOps / platform engineer. I like automation, Linux, and Kubernetes, and I'm currently going deeper into cloud technologies. Lately I've been really into learning AI. I'm open to collaborating on cloud-based projects.
+DevOps / platform engineer who would rather write a script than do anything twice. I build and run Kubernetes platforms, CI/CD pipelines and infrastructure as code, mostly on Linux and sometimes on ARM boards.
+
+These days I spend a lot of time on AI: learning how models work, running them on GPUs, and getting AI agents to do real work alongside me.
 
 ### 🛠️ Tech I work with
 
@@ -20,30 +22,30 @@ DevOps / platform engineer. I like automation, Linux, and Kubernetes, and I'm cu
 ### 📌 Projects
 
 **Kubernetes**
-- [cert-trust](https://github.com/nazmang/cert-trust): a lightweight controller that syncs certificates inside a k8s cluster (Go)
-- [k8s-deployer](https://github.com/nazmang/k8s-deployer): a universal deployer for k8s
-- [platform-deploy-lib](https://github.com/nazmang/platform-deploy-lib): platform deployment libraries for k8s (Groovy)
-- [k8s](https://github.com/nazmang/k8s): k8s deployments and configs
+- **cert-trust**: a lightweight controller that syncs certificates inside a k8s cluster (Go)
+- **k8s-deployer**: a universal deployer for k8s
+- **platform-deploy-lib**: platform deployment libraries for k8s (Groovy)
+- **k8s**: k8s deployments and configs
 
 **CI/CD and Jenkins**
-- [helm-tool-plugin](https://github.com/nazmang/helm-tool-plugin): a Jenkins plugin that wraps Helm (Java)
-- [jenkins-telegram-notify](https://github.com/nazmang/jenkins-telegram-notify): Telegram notifications for Jenkins pipelines
-- [jenkins-agent-docker](https://github.com/nazmang/jenkins-agent-docker): a Jenkins agent with Docker binaries inside
-- [jenkins-armhf](https://github.com/nazmang/jenkins-armhf): Jenkins for ARM
+- **helm-tool-plugin**: a Jenkins plugin that wraps Helm (Java)
+- **jenkins-telegram-notify**: Telegram notifications for Jenkins pipelines
+- **jenkins-agent-docker**: a Jenkins agent with Docker binaries inside
+- **jenkins-armhf**: Jenkins for ARM
 
 **Infrastructure as code**
-- [ansible](https://github.com/nazmang/ansible): Ansible playbooks
-- [terrafform](https://github.com/nazmang/terrafform): example Terraform files for several providers
-- [packer](https://github.com/nazmang/packer): Packer examples for VMware and more
-- [docker](https://github.com/nazmang/docker): commonly used deployment files
-- [cadvisor-docker](https://github.com/nazmang/cadvisor-docker): a cAdvisor container with arm64 support
+- **ansible**: Ansible playbooks
+- **terrafform**: example Terraform files for several providers
+- **packer**: Packer examples for VMware and more
+- **docker**: commonly used deployment files
+- **cadvisor-docker**: a cAdvisor container with arm64 support
 
 **AI**
 - A few experiments of my own: tooling for AI coding agents and running AI workloads on GPUs
 
 **Misc**
-- [cheat-sheets](https://github.com/nazmang/cheat-sheets): cheat sheets for myself and everybody 🙂
+- **cheat-sheets**: cheat sheets for myself and everybody 🙂
 
 ### 📫 Contact
 
-Jabber/XMPP: [nazman@conversations.im](https://conversations.im/i/nazman@conversations.im)
+📧 [4jobs@tuta.io](mailto:4jobs@tuta.io)
