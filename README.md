@@ -19,33 +19,6 @@ These days I spend a lot of time on AI: learning how models work, running them o
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
 
-### 📌 Projects
-
-**Kubernetes**
-- **cert-trust**: a lightweight controller that syncs certificates inside a k8s cluster (Go)
-- **k8s-deployer**: a universal deployer for k8s
-- **platform-deploy-lib**: platform deployment libraries for k8s (Groovy)
-- **k8s**: k8s deployments and configs
-
-**CI/CD and Jenkins**
-- **helm-tool-plugin**: a Jenkins plugin that wraps Helm (Java)
-- **jenkins-telegram-notify**: Telegram notifications for Jenkins pipelines
-- **jenkins-agent-docker**: a Jenkins agent with Docker binaries inside
-- **jenkins-armhf**: Jenkins for ARM
-
-**Infrastructure as code**
-- **ansible**: Ansible playbooks
-- **terrafform**: example Terraform files for several providers
-- **packer**: Packer examples for VMware and more
-- **docker**: commonly used deployment files
-- **cadvisor-docker**: a cAdvisor container with arm64 support
-
-**AI**
-- A few experiments of my own: tooling for AI coding agents and running AI workloads on GPUs
-
-**Misc**
-- **cheat-sheets**: cheat sheets for myself and everybody 🙂
-
 ### 📫 Contact
 
 📧 [4jobs@tuta.io](mailto:4jobs@tuta.io)
