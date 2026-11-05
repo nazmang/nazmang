@@ -1,6 +1,6 @@
 ## Hi, I'm @nazmang 👋
 
-DevOps / platform engineer. I like automation, Linux, and Kubernetes, and I'm currently going deeper into cloud technologies. I'm open to collaborating on cloud-based projects.
+DevOps / platform engineer. I like automation, Linux, and Kubernetes, and I'm currently going deeper into cloud technologies. Lately I've been really into learning AI. I'm open to collaborating on cloud-based projects.
 
 ### 🛠️ Tech I work with
 
@@ -38,10 +38,8 @@ DevOps / platform engineer. I like automation, Linux, and Kubernetes, and I'm cu
 - [docker](https://github.com/nazmang/docker): commonly used deployment files
 - [cadvisor-docker](https://github.com/nazmang/cadvisor-docker): a cAdvisor container with arm64 support
 
-**AI tooling**
-- [claude-agents-kit](https://github.com/nazmang/claude-agents-kit): run many long-lived Claude Code sessions on one machine
-- [claude-cache-keeper](https://github.com/nazmang/claude-cache-keeper): compact idle Claude Code sessions before the prompt cache expires
-- [gpu-studio](https://github.com/nazmang/gpu-studio): an image for GPU pods with ComfyUI and musubi-tuner
+**AI**
+- A few experiments of my own: tooling for AI coding agents and running AI workloads on GPUs
 
 **Misc**
 - [cheat-sheets](https://github.com/nazmang/cheat-sheets): cheat sheets for myself and everybody 🙂
